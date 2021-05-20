@@ -18,4 +18,4 @@ Tanto en este como en el otro proyecto se encuentra el modelo y los scripts de c
 
 ## Modelo
 
-<img src="https://github.com/SagLara/Logica-de-Sistema-de-Ventas-PHP/blob/master/database/modelShop.JPG" width="600" height="400" />
+<img src="https://github.com/SagLara/Logica-de-Sistema-de-Ventas-PHP/blob/master/database/modelShop.JPG" width="700" height="700" />
